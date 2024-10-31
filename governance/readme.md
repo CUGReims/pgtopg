@@ -157,7 +157,7 @@ The bi-annual renewal and structure of the Product Committee are as follows:
 
 ## Process de contribution
 
-Cf. [Process de contribution](proposal.md).
+Cf. [Process de contribution](proposition.md).
 
 ## Versions
 
